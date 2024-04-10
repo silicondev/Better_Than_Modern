@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " cc",
+    " sc",
+    "s  "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident"
+  }
+}
